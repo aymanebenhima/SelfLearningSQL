@@ -23,6 +23,7 @@ To get started, follow these steps:
 ### 2. Data Population
 
 - `insert_records.sql`: SQL script to insert sample records into the tables.
+- In case you find an error please use `insert_records_capitalized.sql`
 
 ### 3. Exercises
 
